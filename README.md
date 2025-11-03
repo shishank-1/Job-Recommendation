@@ -55,6 +55,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built as a capstone project for the Data Science program at XYZ University.
 
 ## Contact
-- Your Name - [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- GitHub: [Your GitHub Profile](https://github.com/yourprofile)
+- Your Name - [Shishank](mailto:shishank1505@gmail.com)
+- LinkedIn: [shishank1](https://www.linkedin.com/in//shishank1/)
